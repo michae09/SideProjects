@@ -1,0 +1,11 @@
+c:\users\mazu\documents\visual studio 2015\Projects\FTPUploader5.0\FTPUploader5.0\bin\Release\FTPUploader5.0.exe.config
+c:\users\mazu\documents\visual studio 2015\Projects\FTPUploader5.0\FTPUploader5.0\bin\Release\FTPUploader5.0.exe
+c:\users\mazu\documents\visual studio 2015\Projects\FTPUploader5.0\FTPUploader5.0\bin\Release\FTPUploader5.0.pdb
+c:\users\mazu\documents\visual studio 2015\Projects\FTPUploader5.0\FTPUploader5.0\bin\Release\FTPUploader5.0.xml
+c:\users\mazu\documents\visual studio 2015\Projects\FTPUploader5.0\FTPUploader5.0\bin\Release\Renci.SshNet.dll
+c:\users\mazu\documents\visual studio 2015\Projects\FTPUploader5.0\FTPUploader5.0\bin\Release\Renci.SshNet.xml
+c:\users\mazu\documents\visual studio 2015\Projects\FTPUploader5.0\FTPUploader5.0\obj\Release\FTPUploader5._0.Resources.resources
+c:\users\mazu\documents\visual studio 2015\Projects\FTPUploader5.0\FTPUploader5.0\obj\Release\FTPUploader5.0.vbproj.GenerateResource.Cache
+c:\users\mazu\documents\visual studio 2015\Projects\FTPUploader5.0\FTPUploader5.0\obj\Release\FTPUploader5.0.exe
+c:\users\mazu\documents\visual studio 2015\Projects\FTPUploader5.0\FTPUploader5.0\obj\Release\FTPUploader5.0.xml
+c:\users\mazu\documents\visual studio 2015\Projects\FTPUploader5.0\FTPUploader5.0\obj\Release\FTPUploader5.0.pdb
