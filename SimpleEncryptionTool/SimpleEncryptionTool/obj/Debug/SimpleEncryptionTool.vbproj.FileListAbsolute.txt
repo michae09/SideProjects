@@ -1,0 +1,11 @@
+c:\users\mazu\documents\visual studio 2015\Projects\SimpleEncryptionTool\SimpleEncryptionTool\bin\Debug\SimpleEncryptionTool.exe.config
+c:\users\mazu\documents\visual studio 2015\Projects\SimpleEncryptionTool\SimpleEncryptionTool\bin\Debug\SimpleEncryptionTool.exe
+c:\users\mazu\documents\visual studio 2015\Projects\SimpleEncryptionTool\SimpleEncryptionTool\bin\Debug\SimpleEncryptionTool.pdb
+c:\users\mazu\documents\visual studio 2015\Projects\SimpleEncryptionTool\SimpleEncryptionTool\bin\Debug\SimpleEncryptionTool.xml
+c:\users\mazu\documents\visual studio 2015\Projects\SimpleEncryptionTool\SimpleEncryptionTool\obj\Debug\SimpleEncryptionTool.vbprojResolveAssemblyReference.cache
+c:\users\mazu\documents\visual studio 2015\Projects\SimpleEncryptionTool\SimpleEncryptionTool\obj\Debug\SimpleEncryptionTool.Form1.resources
+c:\users\mazu\documents\visual studio 2015\Projects\SimpleEncryptionTool\SimpleEncryptionTool\obj\Debug\SimpleEncryptionTool.Resources.resources
+c:\users\mazu\documents\visual studio 2015\Projects\SimpleEncryptionTool\SimpleEncryptionTool\obj\Debug\SimpleEncryptionTool.vbproj.GenerateResource.Cache
+c:\users\mazu\documents\visual studio 2015\Projects\SimpleEncryptionTool\SimpleEncryptionTool\obj\Debug\SimpleEncryptionTool.exe
+c:\users\mazu\documents\visual studio 2015\Projects\SimpleEncryptionTool\SimpleEncryptionTool\obj\Debug\SimpleEncryptionTool.xml
+c:\users\mazu\documents\visual studio 2015\Projects\SimpleEncryptionTool\SimpleEncryptionTool\obj\Debug\SimpleEncryptionTool.pdb
