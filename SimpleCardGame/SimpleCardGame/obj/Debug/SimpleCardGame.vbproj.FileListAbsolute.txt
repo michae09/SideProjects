@@ -1,0 +1,11 @@
+c:\users\mazu\documents\visual studio 2015\Projects\SimpleCardGame\SimpleCardGame\bin\Debug\SimpleCardGame.exe.config
+C:\Users\mazu\Documents\Visual Studio 2015\Projects\SimpleCardGame\SimpleCardGame\bin\Debug\SimpleCardGame.exe
+C:\Users\mazu\Documents\Visual Studio 2015\Projects\SimpleCardGame\SimpleCardGame\bin\Debug\SimpleCardGame.pdb
+C:\Users\mazu\Documents\Visual Studio 2015\Projects\SimpleCardGame\SimpleCardGame\bin\Debug\SimpleCardGame.xml
+C:\Users\mazu\Documents\Visual Studio 2015\Projects\SimpleCardGame\SimpleCardGame\obj\Debug\SimpleCardGame.vbprojResolveAssemblyReference.cache
+C:\Users\mazu\Documents\Visual Studio 2015\Projects\SimpleCardGame\SimpleCardGame\obj\Debug\SimpleCardGame.Form1.resources
+C:\Users\mazu\Documents\Visual Studio 2015\Projects\SimpleCardGame\SimpleCardGame\obj\Debug\SimpleCardGame.Resources.resources
+C:\Users\mazu\Documents\Visual Studio 2015\Projects\SimpleCardGame\SimpleCardGame\obj\Debug\SimpleCardGame.vbproj.GenerateResource.Cache
+C:\Users\mazu\Documents\Visual Studio 2015\Projects\SimpleCardGame\SimpleCardGame\obj\Debug\SimpleCardGame.exe
+C:\Users\mazu\Documents\Visual Studio 2015\Projects\SimpleCardGame\SimpleCardGame\obj\Debug\SimpleCardGame.xml
+C:\Users\mazu\Documents\Visual Studio 2015\Projects\SimpleCardGame\SimpleCardGame\obj\Debug\SimpleCardGame.pdb
